@@ -1,0 +1,30 @@
+# Keil MDK 构建产物
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.bak
+*.dep
+*.d
+*.crf
+*.o
+*.lst
+*.htm
+*.lnp
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.iex
+*.sct
+
+# Python
+__pycache__/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+
+# 含个人信息的文档不入库（按需手动添加）
+任务书-*.docx
